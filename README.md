@@ -1,5 +1,3 @@
-## Donate 
-[Donate to Author](https://imjo.in/HKQKpv)
 
 # Angular 7 Project with ASP.NET CORE APIS (GYM PROJECT)
 
