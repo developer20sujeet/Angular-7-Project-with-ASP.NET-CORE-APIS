@@ -3,9 +3,6 @@
 
 <img src="https://github.com/saineshwar/Angular-7-Project-with-ASP.NET-CORE-APIS-/blob/master/Images/banner.png?raw=true" alt="Banner" title="Banner" style="max-width:100%;">
 
-## If you are looking for Complete ASP.NET CORE Project with Angular 7 Here is link for it 
-[Link of Project](https://github.com/saineshwar/ASPNET-Core-Angular-7-Project)
-
 
 ## Getting Started
 
@@ -26,8 +23,7 @@ The project has 3 parts
 3.	SQL server for database parts
 
 ### Download Database of Project
-Link to download :- https://payhip.com/b/vJ1L
-
+Link to download :- 
 ### About Platform Used 
 Angular Version Used 7.0.4 and CLI version 7.0.6
 
